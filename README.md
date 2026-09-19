@@ -11,4 +11,4 @@ NOTE: Attach screenshots of all pages from the correctly connected frontend. Bet
 
 To access the admin panel (`/admin/`) or log in to the website, use the following credentials:
 - **Email:** `admin@admin.com`
-- **Password:** `admin123`
+- **Password:** `admin12345`
