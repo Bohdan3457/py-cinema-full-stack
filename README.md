@@ -12,14 +12,3 @@ NOTE: Attach screenshots of all pages from the correctly connected frontend. Bet
 To access the admin panel (`/admin/`) or log in to the website, use the following credentials:
 - **Email:** `admin@admin.com`
 - **Password:** `admin123`
-
-## 📸 Screenshots & Preview
-
-![Screenshot 1](screenshots/py-cinema-full-stack1.png)
-![Screenshot 2](screenshots/py-cinema-full-stack2.png)
-![Screenshot 3](screenshots/py-cinema-full-stack3.png)
-![Screenshot 4](screenshots/py-cinema-full-stack4.png)
-![Screenshot 5](screenshots/py-cinema-full-stack5.png)
-![Screenshot 6](screenshots/py-cinema-full-stack6.png)
-![Screenshot 7](screenshots/py-cinema-full-stack7.png)
-![Screenshot 8](screenshots/py-cinema-full-stack8.png)
